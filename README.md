@@ -1,2 +1,3 @@
 # Codecademy
-Codecademy Projects
+Codecademy Project
+Guessing Game
